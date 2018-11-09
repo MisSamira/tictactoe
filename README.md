@@ -4,7 +4,7 @@ TicTacToe2.0
 RUN GUIDE
 
 mvn clean install
-java -jar target/tictactoe-1.0.0-SNAPSHOT.jar <configFile>
+java -jar target/tictactoe-1.0.0-SNAPSHOT.jar configFile
 
 for example : java -jar target/tictactoe-1.0.0-SNAPSHOT.jar config.properties
 
